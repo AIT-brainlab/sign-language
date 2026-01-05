@@ -15,4 +15,6 @@ From the result of WP1, the model will be deployed for live inference as a part 
 
 ## Project Timeline
 
-Please see this link
+Please see this [link](https://github.com/orgs/AIT-brainlab/projects/11)
+
+
