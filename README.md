@@ -13,7 +13,7 @@ This is the repository for the Work Package 1 - Sign Language project.
 **WP1**
 
 WP1's objective is to develop a model for translating a Sign Language to Natural Language (Sign2Text).
-The model should take **video input** and respond with a **translated text** (specifically, Thai (ไืทย)).
+The model should take **video input** and respond with a **translated text** (specifically, Thai (ไทย)).
 
 **WP5.1**
 
